@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    
+}
+li {
+    display: inline;
+    margin-right: 10em;
+}
+button {
+    width: 100px;
+    margin: .5em 1.5em;
+}
+fieldset.add-todo {
+    border: 0;
+}
